@@ -1,32 +1,38 @@
 [
   {
-    "titolo": "New Jersey",
-    "artista": "Bon Jovi",
-    "anno": 1988
+    "title": "New Jersey",
+    "artist": "Bon Jovi",
+    "year": 1988,
+    "img": "./img/bon-jovi.png"
   },
   {
-    "titolo": "Live at Wembley 86",
-    "artista": "Queen",
-    "anno": 1992
+    "title": "Live at Wembley 86",
+    "artist": "Queen",
+    "year": 1992,
+    "img": "./img/queen.png"
   },
   {
-    "titolo": "Ten's Summoner's Tales",
-    "artista": "Sting",
-    "anno": 1993
+    "title": "Ten's Summoner's Tales",
+    "artist": "Sting",
+    "year": 1993,
+    "img": "./img/sting.png"
   },
   {
-    "titolo": "Steve Gadd band",
-    "artista": "Steve Gadd Band",
-    "anno": 2018
+    "title": "Steve Gadd band",
+    "artist": "Steve Gadd Band",
+    "year": 2018,
+    "img": "./img/steve-gadd-band.png"
   },
   {
-    "titolo": "Brave new World",
-    "artista": "Iron Maiden",
-    "anno": 2000
+    "title": "Brave new World",
+    "artist": "Iron Maiden",
+    "year": 2000,
+    "img": "./img/iron-maiden.png"
   },
   {
-    "titolo": "One more car, one more rider",
-    "artista": "Eric Clapton",
-    "anno": 2002
+    "title": "One more car, one more rider",
+    "artist": "Eric Clapton",
+    "year": 2002,
+    "img": "./img/eric-clapton.png"
   }
 ]
