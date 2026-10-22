@@ -22,7 +22,14 @@ $cds = json_decode($json_string, true);
 
 <body class="container dvh-100">
 
-    <h1 class="my-10">Cds list</h1>
+    <nav class="navbar sm:navbar-expand bg-1 fg-2 rounded-5 mt-5">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="./index.php">Home</a>
+            <a class="navbar-brand" href="./addCd.php">Add cd</a>
+        </div>
+    </nav>
+
+    <h1 class="my-5">Cds list</h1>
 
     <ul class="d-flex gap-10 flex-wrap p-0 pb-10 justify-content-center">
         <?php
